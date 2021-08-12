@@ -1,0 +1,2 @@
+# odoo
+my first repository
